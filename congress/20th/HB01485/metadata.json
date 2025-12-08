@@ -1,0 +1,397 @@
+{
+  "id": 222,
+  "congress": 103,
+  "bill_no": "HB01485",
+  "bill_no_f": "HB01485",
+  "session_no": "20-1RS-002",
+  "significance": 21,
+  "manual_status": "",
+  "manual_status_order": "0.00",
+  "nature": null,
+  "author": "L102;",
+  "mother_bill_no": "",
+  "mother_flag": null,
+  "mother_status": "",
+  "title_full": "AN ACT INSTITUTIONALIZING ARTIFICIAL INTELLIGENCE-ENABLED PUBLIC SECTOR INNOVATION AS A STRATEGIC PRIORITY UNDER REPUBLIC ACT NO. 11293, OTHERWISE KNOWN AS THE \"PHILIPPINE INNOVATION ACT,\" AND FOR OTHER PURPOSES",
+  "title_short": "",
+  "abstract": "",
+  "alias_name": "",
+  "date_filed": "2025-07-07",
+  "urgent": false,
+  "urgent_date": null,
+  "admin_bill": false,
+  "admin_date": null,
+  "archive_date": null,
+  "archive_transmitted_date": null,
+  "withdrawn_date": null,
+  "retro_stat": null,
+  "retro_order": null,
+  "status": "Pending with the Committee on INFORMATION AND COMMUNICATIONS TECHNOLOGY since 2025-07-30",
+  "status_order": "4.00",
+  "mstat_order": "0.00",
+  "senate_report_no": "",
+  "senate_bill": "",
+  "senate_urgent": false,
+  "senate_urgent_date": null,
+  "senate_adopted_date": null,
+  "house_date_transmitted": null,
+  "house_date_record": null,
+  "remarks": "",
+  "file": "HB01485.pdf",
+  "size": 74886,
+  "congress_desc": "20th Congress",
+  "significance_desc": "National",
+  "nature_desc": null,
+  "text_as_filed": "https://docs.congress.hrep.online/legisdocs/basic_20/HB01485.pdf",
+  "url": "https://docs.congress.hrep.online",
+  "folder": "20",
+  "authors": [
+    {
+      "id": 4068,
+      "date": "2025-07-07",
+      "sequence_no": 1,
+      "name": "ROMAN, ANTONINO B., III",
+      "name_code": "Roman"
+    }
+  ],
+  "coauthors": [
+    {
+      "id": 4069,
+      "journal_no": "J000",
+      "date": "2025-08-26",
+      "session_no": "1RS",
+      "name": "BARZAGA, FRANCISCO \"Kiko\" A.",
+      "name_code": "Barzaga"
+    },
+    {
+      "id": 4070,
+      "journal_no": "J000",
+      "date": "2025-08-26",
+      "session_no": "1RS",
+      "name": "MADRONA. ELEANDRO JESUS F.",
+      "name_code": "Madrona"
+    },
+    {
+      "id": 4071,
+      "journal_no": "J000",
+      "date": "2025-09-01",
+      "session_no": "1RS",
+      "name": "ORETA, ANTOLIN III A.",
+      "name_code": "Oreta (A. A.)"
+    },
+    {
+      "id": 4072,
+      "journal_no": "J000",
+      "date": "2025-09-02",
+      "session_no": "1RS",
+      "name": "AUMENTADO, MARIA VANESSA \"Van-Van\" C.,RN",
+      "name_code": "Aumentado"
+    },
+    {
+      "id": 4073,
+      "journal_no": "J000",
+      "date": "2025-09-02",
+      "session_no": "1RS",
+      "name": "HERNANDEZ, CHARISSE ANNE C.",
+      "name_code": "Hernandez (C. A.)"
+    },
+    {
+      "id": 4074,
+      "journal_no": "J000",
+      "date": "2025-09-02",
+      "session_no": "1RS",
+      "name": "UY, ROBERTO \"Pinpin\" JR. T.",
+      "name_code": "Uy (R. JR.)"
+    },
+    {
+      "id": 4075,
+      "journal_no": "J000",
+      "date": "2025-09-04",
+      "session_no": "1RS",
+      "name": "DIMAGUILA, WALFREDO \"ARMAN\" R. JR.",
+      "name_code": "Dimaguila"
+    },
+    {
+      "id": 4076,
+      "journal_no": "J000",
+      "date": "2025-09-04",
+      "session_no": "1RS",
+      "name": "SUNTAY, JESUS \"Bong\" C.",
+      "name_code": "Suntay"
+    },
+    {
+      "id": 4077,
+      "journal_no": "J000",
+      "date": "2025-09-04",
+      "session_no": "1RS",
+      "name": "ANGELES, MARIA CRISTINA C.",
+      "name_code": "Angeles"
+    },
+    {
+      "id": 4078,
+      "journal_no": "J000",
+      "date": "2025-09-14",
+      "session_no": "1RS",
+      "name": "BAUTISTA-LIM, CLAUDINE DIANA D.",
+      "name_code": "Bautista-Lim"
+    },
+    {
+      "id": 4079,
+      "journal_no": "J000",
+      "date": "2025-09-16",
+      "session_no": "1RS",
+      "name": "CAGAS, JOHN TRACY F.",
+      "name_code": "Cagas"
+    },
+    {
+      "id": 4080,
+      "journal_no": "J000",
+      "date": "2025-09-25",
+      "session_no": "1RS",
+      "name": "DAGOOC, SERGIO C.",
+      "name_code": "Dagooc"
+    },
+    {
+      "id": 4081,
+      "journal_no": "J000",
+      "date": "2025-10-10",
+      "session_no": "1RS",
+      "name": "AGYAO,  CAROLINE B. MD",
+      "name_code": "Agyao"
+    },
+    {
+      "id": 4082,
+      "journal_no": "J000",
+      "date": "2025-10-10",
+      "session_no": "1RS",
+      "name": "MANGUDADATU, ESMAEL G.",
+      "name_code": "Mangudadatu"
+    },
+    {
+      "id": 4083,
+      "journal_no": "J000",
+      "date": "2025-10-16",
+      "session_no": "1RS",
+      "name": "EMANO, YEVGENY VINCENTE B.",
+      "name_code": "Emano"
+    },
+    {
+      "id": 4084,
+      "journal_no": "J000",
+      "date": "2025-11-17",
+      "session_no": "1RS",
+      "name": "LEGACION, NELSON S.",
+      "name_code": "Legacion"
+    },
+    {
+      "id": 4085,
+      "journal_no": "J000",
+      "date": "2025-09-02",
+      "session_no": "1RS",
+      "name": "PLEYTO, SALVADOR A.",
+      "name_code": "Pleyto"
+    }
+  ],
+  "coauthors_journal": [
+    {
+      "id": 4069,
+      "journal_no": "J000",
+      "date": "2025-08-26",
+      "session_no": "1RS",
+      "name": "BARZAGA, FRANCISCO \"Kiko\" A.",
+      "name_code": "Barzaga"
+    },
+    {
+      "id": 4070,
+      "journal_no": "J000",
+      "date": "2025-08-26",
+      "session_no": "1RS",
+      "name": "MADRONA. ELEANDRO JESUS F.",
+      "name_code": "Madrona"
+    },
+    {
+      "id": 4071,
+      "journal_no": "J000",
+      "date": "2025-09-01",
+      "session_no": "1RS",
+      "name": "ORETA, ANTOLIN III A.",
+      "name_code": "Oreta (A. A.)"
+    },
+    {
+      "id": 4072,
+      "journal_no": "J000",
+      "date": "2025-09-02",
+      "session_no": "1RS",
+      "name": "AUMENTADO, MARIA VANESSA \"Van-Van\" C.,RN",
+      "name_code": "Aumentado"
+    },
+    {
+      "id": 4073,
+      "journal_no": "J000",
+      "date": "2025-09-02",
+      "session_no": "1RS",
+      "name": "HERNANDEZ, CHARISSE ANNE C.",
+      "name_code": "Hernandez (C. A.)"
+    },
+    {
+      "id": 4074,
+      "journal_no": "J000",
+      "date": "2025-09-02",
+      "session_no": "1RS",
+      "name": "UY, ROBERTO \"Pinpin\" JR. T.",
+      "name_code": "Uy (R. JR.)"
+    },
+    {
+      "id": 4075,
+      "journal_no": "J000",
+      "date": "2025-09-04",
+      "session_no": "1RS",
+      "name": "DIMAGUILA, WALFREDO \"ARMAN\" R. JR.",
+      "name_code": "Dimaguila"
+    },
+    {
+      "id": 4076,
+      "journal_no": "J000",
+      "date": "2025-09-04",
+      "session_no": "1RS",
+      "name": "SUNTAY, JESUS \"Bong\" C.",
+      "name_code": "Suntay"
+    },
+    {
+      "id": 4077,
+      "journal_no": "J000",
+      "date": "2025-09-04",
+      "session_no": "1RS",
+      "name": "ANGELES, MARIA CRISTINA C.",
+      "name_code": "Angeles"
+    },
+    {
+      "id": 4078,
+      "journal_no": "J000",
+      "date": "2025-09-14",
+      "session_no": "1RS",
+      "name": "BAUTISTA-LIM, CLAUDINE DIANA D.",
+      "name_code": "Bautista-Lim"
+    },
+    {
+      "id": 4079,
+      "journal_no": "J000",
+      "date": "2025-09-16",
+      "session_no": "1RS",
+      "name": "CAGAS, JOHN TRACY F.",
+      "name_code": "Cagas"
+    },
+    {
+      "id": 4080,
+      "journal_no": "J000",
+      "date": "2025-09-25",
+      "session_no": "1RS",
+      "name": "DAGOOC, SERGIO C.",
+      "name_code": "Dagooc"
+    },
+    {
+      "id": 4081,
+      "journal_no": "J000",
+      "date": "2025-10-10",
+      "session_no": "1RS",
+      "name": "AGYAO,  CAROLINE B. MD",
+      "name_code": "Agyao"
+    },
+    {
+      "id": 4082,
+      "journal_no": "J000",
+      "date": "2025-10-10",
+      "session_no": "1RS",
+      "name": "MANGUDADATU, ESMAEL G.",
+      "name_code": "Mangudadatu"
+    },
+    {
+      "id": 4083,
+      "journal_no": "J000",
+      "date": "2025-10-16",
+      "session_no": "1RS",
+      "name": "EMANO, YEVGENY VINCENTE B.",
+      "name_code": "Emano"
+    },
+    {
+      "id": 4084,
+      "journal_no": "J000",
+      "date": "2025-11-17",
+      "session_no": "1RS",
+      "name": "LEGACION, NELSON S.",
+      "name_code": "Legacion"
+    },
+    {
+      "id": 4085,
+      "journal_no": "J000",
+      "date": "2025-09-02",
+      "session_no": "1RS",
+      "name": "PLEYTO, SALVADOR A.",
+      "name_code": "Pleyto"
+    }
+  ],
+  "authors_final": null,
+  "authors_final_list": null,
+  "authors_committee_report": null,
+  "first_reading": {
+    "id": 1486,
+    "congress": 103,
+    "bill_no": "HB01485",
+    "report": "",
+    "comm_act": "",
+    "referral": "E504",
+    "ref_name": "INFORMATION AND COMMUNICATIONS TECHNOLOGY",
+    "sub_name": "",
+    "recomm": "",
+    "remarks": "",
+    "date_read": "2025-07-30"
+  },
+  "second_reading": null,
+  "third_reading": null,
+  "republic_acts": null,
+  "votes": null,
+  "deliberation": null,
+  "deliberation_committee": null,
+  "republic_act": null,
+  "committee_action": null,
+  "withdrawal": null,
+  "consolidated_bills": null,
+  "substituted_bills": null,
+  "principal_referral": [
+    {
+      "id": 236144,
+      "congress": 19,
+      "bill_no": "HB01485",
+      "referral": "0517",
+      "ref_flag": 1,
+      "newres_flag": false,
+      "submit_flag": false,
+      "change_flag": false,
+      "orig_ref": "",
+      "journal_no": "",
+      "sequence_no": "1.0",
+      "committee": "HEALTH"
+    }
+  ],
+  "secondary_referral": null,
+  "previous_referral": null,
+  "referrals": [
+    {
+      "id": 255153,
+      "congress": 103,
+      "bill_no": "HB01485",
+      "referral": "E504",
+      "ref_flag": 1,
+      "newres_flag": false,
+      "submit_flag": false,
+      "change_flag": false,
+      "orig_ref": "",
+      "journal_no": "",
+      "sequence_no": "1.0",
+      "committee": "INFORMATION AND COMMUNICATIONS TECHNOLOGY"
+    }
+  ],
+  "mother_bills": null,
+  "concom_members": null,
+  "bill_type": "House Bill"
+}
