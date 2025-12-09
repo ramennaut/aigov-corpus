@@ -1,0 +1,489 @@
+{
+  "id": 60037,
+  "congress": 15,
+  "bill_no": "HB03469",
+  "bill_no_f": "HB03469",
+  "session_no": "15-1RS-030",
+  "significance": 21,
+  "manual_status": "",
+  "manual_status_order": null,
+  "nature": null,
+  "author": "G102",
+  "mother_bill_no": "",
+  "mother_flag": null,
+  "mother_status": "",
+  "title_full": "AN ACT REQUIRING ALL REGISTERED VOTERS WHOSE BIOMETRICS HAVE NOT BEEN CAPTURED TO APPEAR BEFORE THE ELECTION OFFICER OF THEIR PLACE OF REGISTRATION FOR PURPOSES OF HAVING THEIR PHOTOGRAPHS, FINGERPRINTS AND SIGNATURES CAPTURED THROUGH THE METHOD OF BIOMETRICS, FOR PURPOSES OF ENSURING THAT THE AUTOMATED FINGERPRINT IDENTIFICATION SYSTEM (AFIS) CAN BE UTILIZED TO CLEANSE THE RECORDS OF DOUBLE OR MULTIPLE REGISTRANTS",
+  "title_short": "Requiring All Registered Voters Whose Biometrics Have Not Been Captured To Appear Before The Election Officer Of Their Place Of Registration For Purposes Of Having Their Photographs, Fingerprints And Signatures Captured Through The Method Of Biometrics",
+  "abstract": "",
+  "alias_name": "",
+  "date_filed": "2010-10-08",
+  "urgent": false,
+  "urgent_date": null,
+  "admin_bill": false,
+  "admin_date": null,
+  "archive_date": null,
+  "archive_transmitted_date": null,
+  "withdrawn_date": null,
+  "retro_stat": null,
+  "retro_order": null,
+  "status": "REPUBLIC ACT (RA10367) enacted on 2013-02-15",
+  "status_order": "34.00",
+  "mstat_order": "0.00",
+  "senate_report_no": "",
+  "senate_bill": "SB01030",
+  "senate_urgent": false,
+  "senate_urgent_date": null,
+  "senate_adopted_date": null,
+  "house_date_transmitted": null,
+  "house_date_record": null,
+  "remarks": "",
+  "file": null,
+  "size": null,
+  "congress_desc": "15th Congress",
+  "significance_desc": "National",
+  "nature_desc": null,
+  "text_as_filed": null,
+  "url": "https://docs.congress.hrep.online",
+  "folder": "15",
+  "authors": [
+    {
+      "id": 358560,
+      "sequence_no": 1,
+      "name": "Yap, Susan",
+      "name_code": "Yap (S.)"
+    }
+  ],
+  "coauthors": [
+    {
+      "id": 358563,
+      "journal_no": "J070",
+      "session_no": "1RS",
+      "name": "HERRERA-DY, BERNADETTE RAMIREZ",
+      "name_code": "Herrera-Dy"
+    },
+    {
+      "id": 358564,
+      "journal_no": "J035",
+      "session_no": "3RS",
+      "name": "LAGMAN, EDCEL CASTELAR",
+      "name_code": "Lagman"
+    },
+    {
+      "id": 358561,
+      "sequence_no": 2,
+      "name": "RODRIGUEZ, RUFUS BAUTISTA",
+      "name_code": "Rodriguez (R.)"
+    },
+    {
+      "id": 358562,
+      "sequence_no": 3,
+      "name": "RODRIGUEZ, MAXIMO JR. B.",
+      "name_code": "Rodriguez (M.)"
+    }
+  ],
+  "coauthors_journal": [
+    {
+      "id": 358563,
+      "journal_no": "J070",
+      "session_no": "1RS",
+      "name": "HERRERA-DY, BERNADETTE RAMIREZ",
+      "name_code": "Herrera-Dy"
+    },
+    {
+      "id": 358564,
+      "journal_no": "J035",
+      "session_no": "3RS",
+      "name": "LAGMAN, EDCEL CASTELAR",
+      "name_code": "Lagman"
+    }
+  ],
+  "authors_final": null,
+  "authors_final_list": null,
+  "authors_committee_report": null,
+  "first_reading": {
+    "id": 61272,
+    "congress": 15,
+    "bill_no": "HB03469",
+    "report": "00289",
+    "comm_act": "",
+    "referral": "0532",
+    "ref_name": "RULES",
+    "sub_name": "SUFFRAGE AND ELECTORAL REFORMS",
+    "recomm": "approval",
+    "remarks": "",
+    "date_read": "2010-10-11",
+    "date_ob": "2010-10-11",
+    "date_report": "2010-10-08"
+  },
+  "second_reading": {
+    "id": 6495,
+    "congress": 15,
+    "bill_no": "HB03469",
+    "adopted_resolution": "",
+    "adopted_resolution_title": "",
+    "reasons": "",
+    "comm_report_no": "",
+    "comm_report_action": "",
+    "remarks": "On Nov. 9, 2010, the Body approved to consider the Explanatory Note of the Bill as the sponsorship remarks on the measure. Terminated the period of sponsorship and debate.",
+    "recommended_reconsidered": " ",
+    "date_calendared": "2010-11-09",
+    "date_approved": "2011-05-10",
+    "adopted_resolution_with_amendment": " ",
+    "concurred_by_the_senate_with_amend": " ",
+    "concurrent_resolution_no": "",
+    "action_on_adopted_resolution": ""
+  },
+  "third_reading": {
+    "id": 8706,
+    "congress": 15,
+    "bill_no": "HB03469",
+    "date_dist": "2011-05-17",
+    "date_adopt": "2011-05-23",
+    "remarks": "           ",
+    "no_yeas": 231,
+    "no_nays": 0,
+    "no_abstent": 0,
+    "date_trans": "2011-05-31",
+    "date_rec": "2011-05-31",
+    "date_rqcc": "2012-11-22",
+    "date_agrcc": "2012-11-28",
+    "amend_ind": " ",
+    "ccreqby": "S",
+    "for_enroll": " ",
+    "act_pres": "A",
+    "cc_yeas": 0,
+    "cc_nays": 0,
+    "cc_absten": 0,
+    "dte_hsagcc": "2012-12-11",
+    "dte_snagcc": "2012-12-12",
+    "dte_transp": "2013-01-29",
+    "dte_actedp": "2013-02-15",
+    "file": "hbt3469.pdf",
+    "third_reading_copy": "https://docs.congress.hrep.online/legisdocs/third_15/hbt3469.pdf"
+  },
+  "republic_acts": [
+    {
+      "id": 1949,
+      "congress": 15,
+      "congress_name": "15th Congress",
+      "ra_no": "RA10367",
+      "bill_no": "HB03469",
+      "senate_bill_no": "SB01030",
+      "title": "AN ACT PROVIDING FOR MANDATORY BIOMETRICS VOTER REGISTRATION",
+      "origin": 43,
+      "origin_desc": "Senate",
+      "date_approved": "2013-02-15",
+      "file": [
+        {
+          "id": 549,
+          "congress": 15,
+          "module": "Republic Act",
+          "name": "RA10367.pdf",
+          "size": 92011,
+          "type": "application/pdf",
+          "deleted": false,
+          "parent_id": 1949,
+          "url": "https://docs.congress.hrep.online/legisdocs/ra_15/RA10367.pdf"
+        }
+      ]
+    }
+  ],
+  "votes": null,
+  "deliberation": null,
+  "deliberation_committee": null,
+  "republic_act": {
+    "id": 1949,
+    "congress": 15,
+    "congress_name": "15th Congress",
+    "ra_no": "RA10367",
+    "bill_no": "HB03469",
+    "senate_bill_no": "SB01030",
+    "title": "AN ACT PROVIDING FOR MANDATORY BIOMETRICS VOTER REGISTRATION",
+    "origin": 43,
+    "origin_desc": "Senate",
+    "date_approved": "2013-02-15",
+    "file": {
+      "id": 549,
+      "congress": 15,
+      "module": "Republic Act",
+      "name": "RA10367.pdf",
+      "size": 92011,
+      "type": "application/pdf",
+      "deleted": false,
+      "parent_id": 1949,
+      "url": "https://docs.congress.hrep.online/legisdocs/ra_15/RA10367.pdf"
+    }
+  },
+  "committee_action": [
+    {
+      "id": 30875,
+      "congress": 15,
+      "bill_no": "HB03469",
+      "referral": "0504",
+      "action_order": "4.110",
+      "action": "Scheduled for first meeting/hearing on 2011-02-02",
+      "date": "2011-02-02",
+      "remarks": "",
+      "meethigh": "",
+      "clear": true,
+      "add_date": "2011-01-26",
+      "release_by": "dirapp",
+      "release_date": "2011-01-26",
+      "release_on": "January 26, 2011 17:31:47"
+    },
+    {
+      "id": 30988,
+      "congress": 15,
+      "bill_no": "HB03469",
+      "referral": "0504",
+      "action_order": "4.350",
+      "action": "Approved by the Committee on Appropriations on 2011-02-02",
+      "date": "2011-02-02",
+      "remarks": "",
+      "meethigh": "Approved with amendment.\r\n",
+      "clear": true,
+      "add_date": "2011-02-02",
+      "release_by": "dirapp",
+      "release_date": "2011-02-02",
+      "release_on": "February 2, 2011 12:58:14"
+    }
+  ],
+  "withdrawal": null,
+  "consolidated_bills": null,
+  "substituted_bills": [
+    {
+      "bill_no": "HB00908",
+      "sequence": 1,
+      "flag": "S"
+    },
+    {
+      "bill_no": "HB02578",
+      "sequence": 2,
+      "flag": "S"
+    }
+  ],
+  "principal_referral": [
+    {
+      "id": 238351,
+      "congress": 19,
+      "bill_no": "HB03469",
+      "referral": "0517",
+      "ref_flag": 1,
+      "newres_flag": false,
+      "submit_flag": false,
+      "change_flag": false,
+      "orig_ref": "",
+      "journal_no": "",
+      "sequence_no": "1.0",
+      "committee": "HEALTH"
+    }
+  ],
+  "secondary_referral": [
+    {
+      "id": 175532,
+      "congress": 15,
+      "bill_no": "HB03469",
+      "referral": "0504",
+      "ref_flag": 0,
+      "newres_flag": false,
+      "submit_flag": false,
+      "change_flag": false,
+      "date_change": "2010-12-01",
+      "orig_ref": "",
+      "journal_no": "J40",
+      "sequence_no": "2.0",
+      "committee": "APPROPRIATIONS"
+    }
+  ],
+  "previous_referral": null,
+  "referrals": [
+    {
+      "id": 175534,
+      "congress": 15,
+      "bill_no": "HB03469",
+      "referral": "0537",
+      "ref_flag": 1,
+      "newres_flag": false,
+      "submit_flag": true,
+      "change_flag": false,
+      "orig_ref": "",
+      "committee": "SUFFRAGE AND ELECTORAL REFORMS"
+    },
+    {
+      "id": 175533,
+      "congress": 15,
+      "bill_no": "HB03469",
+      "referral": "0532",
+      "ref_flag": 1,
+      "newres_flag": false,
+      "submit_flag": false,
+      "change_flag": false,
+      "orig_ref": "",
+      "journal_no": "",
+      "sequence_no": "1.0",
+      "committee": "RULES"
+    },
+    {
+      "id": 175532,
+      "congress": 15,
+      "bill_no": "HB03469",
+      "referral": "0504",
+      "ref_flag": 0,
+      "newres_flag": false,
+      "submit_flag": false,
+      "change_flag": false,
+      "date_change": "2010-12-01",
+      "orig_ref": "",
+      "journal_no": "J40",
+      "sequence_no": "2.0",
+      "committee": "APPROPRIATIONS"
+    }
+  ],
+  "mother_bills": [
+    {
+      "bill_no": "HB00908",
+      "sequence": 1,
+      "flag": "S"
+    },
+    {
+      "bill_no": "HB02578",
+      "sequence": 2,
+      "flag": "S"
+    }
+  ],
+  "concom_members": [
+    {
+      "id": 4256,
+      "congress": 15,
+      "bill_no": "HB03469",
+      "date": "2012-11-22",
+      "author": "F406",
+      "sequence_no": "1.0",
+      "name": "PIMENTEL, AQUILINO MARTIN III",
+      "name_code": "Pimentel",
+      "flag": "S"
+    },
+    {
+      "id": 4280,
+      "congress": 15,
+      "bill_no": "HB03469",
+      "date": "2012-11-28",
+      "author": "F013",
+      "sequence_no": "10.0",
+      "name": "BINAY, MAR-LEN ABIGAIL SOMBILLO",
+      "name_code": "Binay",
+      "flag": "M"
+    },
+    {
+      "id": 4281,
+      "congress": 15,
+      "bill_no": "HB03469",
+      "date": "2012-11-28",
+      "author": "F035",
+      "sequence_no": "11.0",
+      "name": "GUNIGUNDO, MAGTANGGOL I TANJUAN",
+      "name_code": "Gunigundo",
+      "flag": "M"
+    },
+    {
+      "id": 4282,
+      "congress": 15,
+      "bill_no": "HB03469",
+      "date": "2012-11-28",
+      "author": "F007",
+      "sequence_no": "12.0",
+      "name": "AQUINO, JOSE II SABIJON",
+      "name_code": "Aquino",
+      "flag": "M"
+    },
+    {
+      "id": 4257,
+      "congress": 15,
+      "bill_no": "HB03469",
+      "date": "2012-11-22",
+      "author": "D408",
+      "sequence_no": "2.0",
+      "name": "VILLAR, MANUEL JR. B.",
+      "name_code": "Villar",
+      "flag": "S"
+    },
+    {
+      "id": 4258,
+      "congress": 15,
+      "bill_no": "HB03469",
+      "date": "2012-11-22",
+      "author": "E404",
+      "sequence_no": "3.0",
+      "name": "LAPID, MANUEL \"LITO\" M.",
+      "name_code": "Lapid",
+      "flag": "S"
+    },
+    {
+      "id": 4259,
+      "congress": 15,
+      "bill_no": "HB03469",
+      "date": "2012-11-22",
+      "author": "F402",
+      "sequence_no": "4.0",
+      "name": "CAYETANO, ALLAN PETER S.",
+      "name_code": "Cayetano (A.)",
+      "flag": "S"
+    },
+    {
+      "id": 4260,
+      "congress": 15,
+      "bill_no": "HB03469",
+      "date": "2012-11-22",
+      "author": "F404",
+      "sequence_no": "5.0",
+      "name": "TRILLANES, ANTONIO IV",
+      "name_code": "Trillanes",
+      "flag": "S"
+    },
+    {
+      "id": 4276,
+      "congress": 15,
+      "bill_no": "HB03469",
+      "date": "2012-11-28",
+      "author": "F012",
+      "sequence_no": "6.0",
+      "name": "BARZAGA, ELPIDIO JR. FRANI",
+      "name_code": "Barzaga",
+      "flag": "M"
+    },
+    {
+      "id": 4277,
+      "congress": 15,
+      "bill_no": "HB03469",
+      "date": "2012-11-28",
+      "author": "G102",
+      "sequence_no": "7.0",
+      "name": "YAP, SUSAN A.",
+      "name_code": "Yap (S.)",
+      "flag": "M"
+    },
+    {
+      "id": 4278,
+      "congress": 15,
+      "bill_no": "HB03469",
+      "date": "2012-11-28",
+      "author": "F066",
+      "sequence_no": "8.0",
+      "name": "SALVACION, ANDRES D.",
+      "name_code": "Salvacion",
+      "flag": "M"
+    },
+    {
+      "id": 4279,
+      "congress": 15,
+      "bill_no": "HB03469",
+      "date": "2012-11-28",
+      "author": "0095",
+      "sequence_no": "9.0",
+      "name": "LAGMAN, EDCEL CASTELAR",
+      "name_code": "Lagman",
+      "flag": "M"
+    }
+  ],
+  "bill_type": "House Bill"
+}
